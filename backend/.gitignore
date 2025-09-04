@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+
+# Production build
+/dist
+
+# Environment variables
+.env
+.env.*     # if you use multiple env files
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Optional: if you use coverage testing
+/coverage
