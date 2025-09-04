@@ -41,7 +41,7 @@ A comprehensive task management application built with React Native, TypeScript,
 - Input validation with express-validator
 - CORS, Helmet for security
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js (v20+)
@@ -115,7 +115,7 @@ npm run android
 
 ```
 
-## 📱 App Architecture
+## App Architecture
 
 ### State Management
 - **Redux Toolkit** for global state
@@ -220,7 +220,7 @@ curl -X POST http://localhost:3000/api/auth/login \
   -d '{"email":"john@example.com","password":"password123"}'
 ```
 
-## 🎨 UI/UX Features
+##  UI/UX Features
 
 - **Modern Design**: Clean, intuitive interface
 - **Color-coded Priorities**: Visual priority indicators
