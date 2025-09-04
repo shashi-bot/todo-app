@@ -1,0 +1,7 @@
+{
+  "name": "TodoApp",
+  "displayName": "TodoApp",
+  "react-native": {
+    "android_package": "com.todoapp"
+  }
+}
